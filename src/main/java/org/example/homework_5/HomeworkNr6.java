@@ -42,6 +42,7 @@ public class HomeworkNr6 {
         for (int i = 0; i < 100; i++) {
 
             System.out.println("Четные числа"+i );
+            int a;
 
 
         }
