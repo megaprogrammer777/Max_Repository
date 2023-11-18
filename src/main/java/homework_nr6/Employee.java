@@ -35,6 +35,7 @@ public class Employee {
     public void setNumber(String number) {
         this.number = number;
     }
+    int a;
 
 
 }
