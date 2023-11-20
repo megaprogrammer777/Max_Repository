@@ -10,8 +10,12 @@ public abstract class Employee extends Person {
 
     @Override
     public void printMyName() {
-        System.out.println(" The compane name is"+ companyName);
+        System.out.println("My name is" + name + "" + surname + "");
     }
 
-    public abstract void Work();
+    public abstract void Work();{
+
+    }
+
+
 }
